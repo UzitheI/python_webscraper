@@ -9,10 +9,9 @@ This project is a web scraper that extracts data from a Wikipedia list and conve
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone git@github.com:UzitheI/python_webscraper.git
+cd python_webscraper
 ```
-
 ### 2. Create a Virtual Environment
 
 Create a virtual environment to isolate the project dependencies:
@@ -66,7 +65,7 @@ After running the script, you'll be prompted to insert the URL of the Wikipedia 
 
 ### 5. Output
 
-The output of the scraper will be saved as a CSV file in the project directory. The name of the file will be `filename.csv`, which you can find in the `WEBCRAWLER` folder.
+The output of the scraper will be saved as a CSV file in the project directory. The name of the file will be `filename.csv`, which you can find in the folder.
 
 ## Conclusion
 
